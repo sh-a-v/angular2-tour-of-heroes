@@ -4,7 +4,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { HeroDetailComponent } from './hero-detail';
+import { HeroDetailComponent } from './heroes/hero-detail';
 
 @NgModule({
   imports: [
